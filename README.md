@@ -8,6 +8,7 @@ Highlights:
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
+live app: https://chat-app-zkap.onrender.com
 
 ### Setup .env file
 
